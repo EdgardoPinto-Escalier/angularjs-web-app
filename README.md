@@ -1,2 +1,7 @@
-# angularjs-web-app
+# ANGULARJS WEB APP
+
 Simple AngularJS Web Application
+
+## FOR THIS APPLICATION I USED THE FOLLOWING:
+
+- 
