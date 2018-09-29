@@ -497,17 +497,17 @@ nav li a:hover {
   color: #E76C5A;
 }
 
-.userinfo {
+.userInformation {
   text-align: center;
   font-family: Lato, 'Helvetica Nueue', Helvetica, Arial, sans-serif;
-  padding-bottom: 5px;
+  padding-bottom: 15px;
 }
 
-.userinfo a {
+.userInformation a {
   color: #2D8BCF;
 }
 
-.userinfo input {
+.userInformation input {
       width: auto;
 }
 
